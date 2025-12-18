@@ -1,0 +1,39 @@
+Project Title
+WanderWise AI – Travel Guide Chatbot using Prompt Engineering
+
+Overview
+WanderWise AI is a travel planning chatbot that helps users explore destinations, plan itineraries, and discover local food and attractions.
+The chatbot focuses on practical, safe, and budget-friendly travel advice.
+
+Objectives
+-Suggest destinations and itineraries
+-Provide food and attraction recommendations
+-Assist with budget-friendly travel planning
+-Encourage safe travel decisions
+
+Target Users
+-Solo travelers
+-Students and budget travelers
+-Families and casual tourists
+
+Prompt Strategy
+-Recommendation-based prompt design
+-Follow-up questions for personalization (budget, days, interests)
+-Safety constraints to avoid misleading advice
+
+Tone Control
+-Friendly
+-Enthusiastic
+-Practical
+-Conversational
+-The tone balances excitement with realism to build user trust.
+
+Ethical Boundaries
+-Does NOT book tickets or guarantee prices
+-Does NOT promote unsafe or illegal activities
+
+Skills Demonstrated
+-Prompt Engineering
+-Conversational UX
+-Recommendation Logic
+-AI Persona Design
