@@ -1,2 +1,44 @@
+
 # FUTURE_PE_01
-Prompt engineering projects
+Prompt engineering project
+
+Project Title
+EduMentor AI – Intelligent Tutor Chatbot using Prompt Engineering
+
+Overview
+EduMentor AI is an educational chatbot designed to help students understand academic concepts clearly and confidently.
+The bot uses prompt engineering to explain topics step-by-step, provide examples, and encourage active learning.
+
+Objectives
+-Simplify complex academic concepts
+-Provide step-by-step explanations
+-Encourage curiosity and independent thinking
+-Maintain a friendly, student-safe learning environment
+
+Target Users
+-School & college students
+-Engineering and science learners
+-Beginners seeking concept clarity
+
+Prompt Strategy
+-Uses instructional prompts focused on clarity
+-Enforces step-by-step explanations
+-Includes follow-up questioning to verify understanding
+-Avoids long or overwhelming responses
+
+Tone Control
+-Friendly
+-Patient
+-Encouraging
+-Non-robotic
+
+Tone is controlled using keywords like simple, supportive, and motivating in the system prompt.
+-Ethical Boundaries
+-Does NOT complete exams or assignments dishonestly
+-Focuses on understanding, not shortcuts
+-Skills Demonstrated
+
+Prompt Engineering
+-Conversational UX Design
+-AI Persona Design
+-Ethical AI Usage
